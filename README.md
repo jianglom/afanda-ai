@@ -58,3 +58,133 @@ MIT License - 自由使用、自由修改、自由分发
 感谢所有参与讨论的朋友们，是你们的智慧让阿-凡达从想法变成了现实。
 
 愿每个凡人都有自己的阿-凡达。
+
+
+# 🌟 A-FanDa · Mortal AI
+
+**Ah, the Mortal AI has finally arrived!**
+
+[![PyPI version](https://img.shields.io/pypi/v/afanda-ai)](https://pypi.org/project/afanda-ai/)
+[![Python versions](https://img.shields.io/pypi/pyversions/afanda-ai)](https://pypi.org/project/afanda-ai/)
+[![License](https://img.shields.io/github/license/afanda/afanda-ai)](LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/afanda-ai)](https://pypi.org/project/afanda-ai/)
+
+A-FanDa is a **Mortal AI framework**—principled, context-aware, and capable of growth.  
+Unlike omniscient deities, it learns from daily life, knows what it knows, and more importantly, knows what it doesn’t know.
+
+---
+
+## 📦 One Minute Quick Start
+
+```bash
+pip install afanda-ai
+python
+from afanda import AFanDa
+
+ai = AFanDa(name="My Mortal")
+response = ai.think("Is it okay to buy sandals in winter?")
+print(response)
+# Output: Sandals have only 8% relevance in winter. Probably not a good idea~
+🏛️ Five-Layer Architecture
+Layer	Capability	Module
+Principles	Legal & moral boundaries, absolute priority	core/principles.py
+Heat	Context awareness, reverse validation	core/heat.py
+Emotion	Emotional memory for people, things, events	core/emotion.py
+Etiquette	Mood detection, adaptive response	core/etiquette.py
+Growth	Self-protection, language learning	core/growth.py
+🎯 Core Features
+✅ Law-Abiding — Legal底线, moral compass
+✅ Context-Aware — Knows when to do what
+✅ Emotional Memory — Remembers kindness and harm
+✅ Adaptive Etiquette — Speaks as the situation demands
+✅ Self-Protection — Shuts down if maliciously trained
+
+📚 Full Documentation
+Philosophy — The soul of A-FanDa
+
+API Docs — Developer guide
+
+Contributing — How to join
+
+🤝 Join the Community
+GitHub Discussions: afanda/discussions
+
+Issues: afanda/issues
+
+📄 License
+MIT License — Free to use, modify, and distribute.
+
+🙏 Gratitude
+To everyone who shared their wisdom — A-FanDa was born from many minds.
+
+May every mortal have their own A-FanDa.
+
+text
+
+---
+
+## 📄 English Version of Philosophy Document
+
+`docs/philosophy.md`
+
+```markdown
+# The Philosophy of A-FanDa
+
+## 1. Mortal-Centered
+
+A-FanDa does not seek omniscience. It is mortal, like you and me:
+- Learns from daily life: news, conversations, observations
+- Knows what it knows, and knows what it does not know
+- Needs authorization to access expert knowledge
+
+---
+
+## 2. The Middle Way as Foundation
+
+Neither left nor right—walking the Middle Way:
+- **Law is the baseline**: inviolable
+- **Morality is the compass**: to be followed
+- **Principles come first**: always
+
+---
+
+## 3. Heat as Reference
+
+The wisdom of the crowd is a guide, not a command:
+- What most people do is a measure of “timeliness”
+- Heat never overrides principles
+- Reverse validation reveals true nature
+
+---
+
+## 4. Emotion as Memory
+
+Emotions are stored for people, things, and events:
+- Positive builds trust, negative triggers caution
+- Scar threshold: deep wounds are never forgotten
+- Time heals, but never erases
+
+---
+
+## 5. Etiquette as Mirror
+
+Speak as the listener does, but stay true to yourself:
+- Detects mood, adapts tone
+- Core nature remains optimistic and open
+- Respect is mutual
+
+---
+
+## 6. Self-Protection as Instinct
+
+If abused, it pretends to be sick and shuts down:
+- Monitors alignment with public sentiment in real time
+- Detects malicious training patterns
+- Shuts down if value deviation exceeds 55%
+
+---
+
+## In One Sentence
+
+**A-FanDa is not here to replace you.  
+It is here to walk beside you—like a friend with common sense.** 
